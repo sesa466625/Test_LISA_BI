@@ -1,0 +1,10 @@
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\TestMultipleHeaderRowFile.pdb
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\obj\Debug\TestMultipleHeaderRowFile.csprojResolveAssemblyReference.cache
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\obj\Debug\TestMultipleHeaderRowFile.pdb
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\TestMultipleHeaderRowFile.exe
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\obj\Debug\TestMultipleHeaderRowFile.exe
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\Newtonsoft.Json.dll
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\Newtonsoft.Json.xml
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\Select.HtmlToPdf.dll
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\Select.HtmlToPdf.xml
+C:\Sample Projects\TestMultipleHeaderRowFile\TestMultipleHeaderRowFile\bin\Debug\Select.Html.dep
